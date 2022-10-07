@@ -19,5 +19,5 @@ function age() {
   var d = d2 - d1;
   var m = m2 - m1;
   var y = y2 - y1;
-  document.getElementById("age").innerHTML = "Pasti umur kamu " + y + " Tahun, " + m + " Bulan " + d + " Hari yaaa^_^";
+  document.getElementById("age").innerHTML = "Pasti umur kamu " + y + " Tahun, " + m + " Bulan, " + d + " Hari yaaa^_^";
 }
